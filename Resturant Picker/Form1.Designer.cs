@@ -141,7 +141,7 @@ namespace Resturant_Picker
             this.Controls.Add(this.lblStts);
             this.Controls.Add(this.btnAdd);
             this.Name = "Form1";
-            this.Text = "Matches";
+            this.Text = "Restaurant Picker";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
