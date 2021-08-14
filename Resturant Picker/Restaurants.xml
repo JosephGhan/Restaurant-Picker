@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Rstrnts>
+  <Rstrnt name="Popeyes" />
+  <Rstrnt name="Wendys" />
+  <Rstrnt name="McDonalds" />
+  <Rstrnt name="Hong Kong Inn" />
+  <Rstrnt name="Sushi Fork" />
+  <Rstrnt name="Arby's" />
+  <Rstrnt name="Taco Bell" />
+</Rstrnts>
