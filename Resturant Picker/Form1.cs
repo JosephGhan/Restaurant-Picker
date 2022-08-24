@@ -137,7 +137,7 @@ namespace Resturant_Picker
 
             if(lstMchd.Items.Count == 0)
             {
-                MessageBox.Show("Yall fucked up", "No matches", MessageBoxButtons.OK);
+                MessageBox.Show("Yall messed up", "No matches", MessageBoxButtons.OK);
             }
 
             btnNo.Enabled = false;
